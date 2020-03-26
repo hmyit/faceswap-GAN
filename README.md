@@ -1,4 +1,4 @@
-#optimized by Hüseyin Meriç Yiğit
+# optimized by Hüseyin Meriç Yiğit
 
 # faceswap-GAN
 Adding Adversarial loss and perceptual loss (VGGface) to deepfakes'(reddit user) auto-encoder architecture.
